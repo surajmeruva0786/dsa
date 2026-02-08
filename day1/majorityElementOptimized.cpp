@@ -16,3 +16,6 @@ public:
         return nums[0];
     }
 };
+
+//TIME COMPLEXITY: O(nlogn)
+//SPACE COMPLEXITY: O(1)

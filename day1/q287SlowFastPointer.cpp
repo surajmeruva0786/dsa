@@ -18,3 +18,6 @@ public:
         return slow;
     }
 };
+
+//time complexity: O(n)
+//space complexity: O(1)
